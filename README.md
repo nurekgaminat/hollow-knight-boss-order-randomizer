@@ -16,7 +16,12 @@ In hard mode you can:
 - more bosses without dash (you have to use fireball skips or sth): 
      Broken Vessel, Watcher Knights, Soul Master, Collector, Crystal Guardian, Elder Hu, Galien, God Tamer, Gorb, Great Prince Zote, Grimm,Hive Knight, Mantis Lords,     Marmu, No Eyes, Nosk, Obobbles, Uumuu, Xero
 
-Basicly all the bosses locked behind claws/dash in easy mode
+
+IN PROGRESS:
+     - cursed mode
+
+
 
 Have fun!
+
 nurek
